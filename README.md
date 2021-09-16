@@ -7,3 +7,6 @@ day 2:- theory:- array as adt
 
 day 3:- theory:- studied time and space complexity and 
         solved some questions from geeksforgeek
+
+day 4:- theory:- revised binary search and linear search
+        code:- coded linear and binary search
