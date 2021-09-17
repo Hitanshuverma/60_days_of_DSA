@@ -10,3 +10,7 @@ day 3:- theory:- studied time and space complexity and
 
 day 4:- theory:- revised binary search and linear search
         code:- coded linear and binary search
+
+day 5:- theory:- revised selection sort and binary search using
+        iterative func.
+        code:- coded binary search and selection sort
