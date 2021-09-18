@@ -14,3 +14,6 @@ day 4:- theory:- revised binary search and linear search
 day 5:- theory:- revised selection sort and binary search using
         iterative func.
         code:- coded binary search and selection sort
+
+day 6:- theory:- revised iterative and recursive bubble sort
+        code:- coded iterative and recursive bubble sort
