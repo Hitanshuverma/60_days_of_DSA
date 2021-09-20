@@ -21,3 +21,6 @@ day 6:- theory:- revised iterative and recursive bubble sort
 day 7:- theory:- revised iterative and recursive insertion sort
                 and studied merge sort 
         code:- coded iterative and recursive insertion sort
+
+day 8:- theory:- studied merge sort 
+        code:- coded merge sort 
