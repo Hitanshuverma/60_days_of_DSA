@@ -24,3 +24,6 @@ day 7:- theory:- revised iterative and recursive insertion sort
 
 day 8:- theory:- studied merge sort 
         code:- coded merge sort 
+
+day 9 :- theory:- studied quick sort 
+        code:- coded quick sort 
