@@ -25,5 +25,12 @@ day 7:- theory:- revised iterative and recursive insertion sort
 day 8:- theory:- studied merge sort 
         code:- coded merge sort 
 
-day 9 :- theory:- studied quick sort 
+day 9:- theory:- studied quick sort 
         code:- coded quick sort 
+
+day 10:- theory:- studied divide and conquer
+
+day 11:- theory:- finished divide and conquer theorem
+         code:- coded a prog to max and min values of an array
+                using div and conquer theorem
+        

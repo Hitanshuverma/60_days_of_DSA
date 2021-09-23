@@ -1,0 +1,1 @@
+studied basics of reccurence relation and divide and conqure method
