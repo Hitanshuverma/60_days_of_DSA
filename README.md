@@ -33,4 +33,7 @@ day 10:- theory:- studied divide and conquer
 day 11:- theory:- finished divide and conquer theorem
          code:- coded a prog to max and min values of an array
                 using div and conquer theorem
+
+day 12:- theory:- started linked list 
+         code:- coded creation and traversal in linked list  
         
