@@ -37,3 +37,5 @@ day 11:- theory:- finished divide and conquer theorem
 day 12:- theory:- started linked list 
          code:- coded creation and traversal in linked list  
         
+day 13:- theory:- revised insertion, modification and deletion operation in linked list
+         code:- coded insertion, modification and deletion operation in linked list
