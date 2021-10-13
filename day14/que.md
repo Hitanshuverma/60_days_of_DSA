@@ -1,0 +1,1 @@
+solved questions of linked list on leet code
