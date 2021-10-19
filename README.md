@@ -40,6 +40,10 @@ day 12:- theory:- started linked list
 day 13:- theory:- revised insertion, modification and deletion operation in linked list
          code:- coded insertion, modification and deletion operation in linked list
 
-day 14:- theory: revised circular and doubly linked list and practised few questions on leet code.
+day 14:- theory:- revised circular and doubly linked list and practised few questions on leet code.
 
-day 15:- theory: practised few questions on leet code.
+day 15:- theory:- practised few questions on leet code.
+
+day 16:- theory:- revised stack using array and linked list
+
+day 17:- code:- coded stack using linked list 
