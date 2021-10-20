@@ -47,3 +47,6 @@ day 15:- theory:- practised few questions on leet code.
 day 16:- theory:- revised stack using array and linked list
 
 day 17:- code:- coded stack using linked list 
+
+day 18:- theory:- studied the implementation of stack 
+         code:- coded parenthesis matching using stack(linked list)

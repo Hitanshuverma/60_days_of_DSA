@@ -37,7 +37,7 @@ stack * create(int n)
         cout<<"enter the val"<<endl;
         cin>>num;
         top -> getdata(num, prv);
-        prv = new stack;
+        //prv = new stack;
         prv = top;
         top = new stack;
     }
@@ -91,9 +91,12 @@ stack * pop(stack * ptr)
         cout<<"Underflow"<<endl;
         return NULL;
     }
-    stack * top = new stack;
-    top = top -> return_next();
-    return top;
+    else
+    {
+        stack * top = new stack;
+        top = ptr -> return_next();
+        return top;
+    }
 }
 stack * stack_bottom(stack * ptr)
 {
@@ -104,7 +107,7 @@ stack * stack_bottom(stack * ptr)
 } 
 void print (stack * top)
 {
-    while(top -> return_next() != NULL)
+    while(top != NULL)
     {
         cout<<top -> get_val()<<endl;
         top = top -> return_next();
